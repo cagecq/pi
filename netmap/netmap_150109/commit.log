@@ -1,0 +1,11 @@
+commit 9f9028a779140e86cc4a754223d45d1085ac1595
+Author: Luigi Rizzo <rizzo@iet.unipi.it>
+Date:   Tue Jan 6 10:08:46 2015 -0800
+
+    implement make_dev_credf() as in FreeBSD
+
+commit 2b25df5975c07c2545bd841caddbdbcbb7125fbd
+Author: Luigi Rizzo <rizzo@iet.unipi.it>
+Date:   Wed Jan 7 14:32:52 2015 +0100
+
+    introduce NM_MTX_T for OS-specific sleepable mutex
